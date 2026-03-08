@@ -1,25 +1,83 @@
-## Hey! Welcome to my GitHub page.
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F762&width=475&lines=CS+%2B+BNS+%40+Quinnipiac;Endlessly+Curious)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=800&color=00FF41&background=00000000&center=true&width=560&lines=WAKE+UP+%3E%3E+TheTitanOfTime;THE+MATRIX+HAS+YOU;DECRYPTING+SUBJECT+FILE...;CS+%2B+BNS+%40+QUINNIPIAC;STATUS%3A+ENDLESSLY_CURIOUS)](https://git.io/typing-svg)
 
-My name is Aurelien Buisne, and I am a student pursuing a double bachelors in computer science and behavioral neuroscience at Quinnipiac University.
+</div>
 
-## I'm currently working on:
+---
 
-## Check out some of the projects I've recently finished! 
-#### Requiem For A Gnome: Turn based RPG Game made in my Software Development (SER225) Class!
-- I practiced using the Agile Software Development Lifecycle with three classmates in the class, as well as an upperclassman Scrum Master.
-- The link is: https://github.com/bbailor/SER225
+```console
+╔══════════════════════════════════════════════════════════╗
+║  DECRYPTING  ::  0x41555245 4255 4953 4E45               ║
+╚══════════════════════════════════════════════════════════╝
 
-### Connect With Me!
-- https://www.linkedin.com/in/aurelienbuisine/
+  NAME      : Aurelien Buisne
+  USER_ID   : TheTitanOfTime
+  CLEARANCE : STUDENT
+  SPEC      : Computer Science + Behavioral Neuroscience
+  INST      : Quinnipiac University
+  STATUS    : [ ACTIVE ]
+```
+
+---
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=TheTitanOfTime&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41)
+![Streak](https://streak-stats.demolab.com?user=TheTitanOfTime&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&stroke=00FF41&sideNums=00FF41&currStreakNum=00FF41)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=TheTitanOfTime&theme=matrix&no-frame=true&row=1&column=6)
+
+</div>
+
+---
+
+## `>> PROTOCOLS_LOADED`
+
+![Java](https://img.shields.io/badge/JAVA-00FF41?style=flat-square&labelColor=0a0a0a&logo=openjdk&logoColor=00FF41)
+![Python](https://img.shields.io/badge/PYTHON-00FF41?style=flat-square&labelColor=0a0a0a&logo=python&logoColor=00FF41)
+![Git](https://img.shields.io/badge/GIT-00FF41?style=flat-square&labelColor=0a0a0a&logo=git&logoColor=00FF41)
+
+---
+
+## `>> ACTIVE_PROCESSES`
+
+```console
+  SLOT_01   : ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0% [ INITIALIZING ]
+```
+
+---
+
+## `>> COMPLETED_OPERATIONS`
+
+```console
+╔══════════════════════════════════════════════════════════╗
+║  0x5345523232355F525047  ::  OPERATION COMPLETE          ║
+╚══════════════════════════════════════════════════════════╝
+
+  CODENAME  : Requiem For A Gnome
+  TYPE      : Turn-based RPG
+  PROTOCOL  : Agile / Scrum  [ SER225 ]
+  AGENTS    : 4 devs + 1 Scrum Master
+  ARCHIVE   : github.com/bbailor/SER225
+```
+
+---
+
+## `>> ESTABLISH_CONNECTION`
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-aurelienbuisne-00FF41?style=flat-square&labelColor=0a0a0a&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/aurelienbuisine/)
+
+---
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=TheTitanOfTime&bg_color=0d1117&color=00FF41&line=00FF41&point=00FF41&hide_border=true)
 
 ![Logo](profile-3d-contrib/profile-night-green.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
+  <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/TheTitanOfTime/TheTitanOfTime/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
+  <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/TheTitanOfTime/TheTitanOfTime/output/github-snake.svg">
   <img alt="github contribution snake"
     src="https://raw.githubusercontent.com/TheTitanOfTime/TheTitanOfTime/output/github-snake.svg">
