@@ -13,3 +13,5 @@ My name is Aurelien Buisne, and I am a student pursuing a double bachelors in co
 
 ### Connect With Me!
 - https://www.linkedin.com/in/aurelienbuisine/
+
+![Logo](profile-3d-contrib/profile-night-green.svg)
