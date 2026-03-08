@@ -15,3 +15,12 @@ My name is Aurelien Buisne, and I am a student pursuing a double bachelors in co
 - https://www.linkedin.com/in/aurelienbuisine/
 
 ![Logo](profile-3d-contrib/profile-night-green.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/TheTitanOfTime/TheTitanOfTime/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/TheTitanOfTime/TheTitanOfTime/output/github-snake.svg">
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/TheTitanOfTime/TheTitanOfTime/output/github-snake.svg">
+</picture>
