@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="202" viewBox="0 0 560 202">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="418" viewBox="0 0 560 418">
   <defs>
     <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
       <feGaussianBlur stdDeviation="1.8" result="blur"/>
@@ -12,18 +12,36 @@
     </pattern>
   </defs>
 
-  <rect width="560" height="202" fill="#0d1117"/>
-  <rect x="1" y="1" width="558" height="200" fill="none" stroke="#00FF41" stroke-width="0.5" opacity="0.25"/>
-  <rect width="560" height="202" fill="url(#scanlines)"/>
+  <rect width="560" height="418" fill="#0d1117"/>
+  <rect x="1" y="1" width="558" height="416" fill="none" stroke="#00FF41" stroke-width="0.5" opacity="0.25"/>
+  <rect width="560" height="418" fill="url(#scanlines)"/>
 
   <g font-family="'Courier New', Courier, monospace" font-size="13" fill="#00FF41" filter="url(#glow)">
+
+    <!-- PROJECT 1: CSC340 Distributed Service Cluster -->
+    <!-- "CSC340_P1" → 0x4353433334305F5031 -->
     <text x="20" y="30">&#x2554;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2557;</text>
-    <text x="20" y="52">&#x2551;  0x5345523232355F525047  ::  OPERATION COMPLETE          &#x2551;</text>
+    <text x="20" y="52">&#x2551;  0x4353433334305F5031  ::  OPERATION COMPLETE        &#x2551;</text>
     <text x="20" y="74">&#x255A;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x255D;</text>
-    <text x="20" y="106">  CODENAME  : Requiem For A Gnome</text>
-    <text x="20" y="128">  TYPE      : Turn-based RPG</text>
-    <text x="20" y="150">  PROTOCOL  : Agile / Scrum  [ SER225 ]</text>
-    <text x="20" y="172">  AGENTS    : 4 devs + 1 Scrum Master</text>
-    <text x="20" y="194">  ARCHIVE   : github.com/bbailor/SER225</text>
+    <text x="20" y="106">  CODENAME  : Distributed Service Cluster</text>
+    <text x="20" y="128">  TYPE      : Microservices / Distributed Systems</text>
+    <text x="20" y="150">  PROTOCOL  : TCP / UDP / HTTP Gateway  [ CSC340 ]</text>
+    <text x="20" y="172">  AGENTS    : 4 devs + AWS Cloud Deployment</text>
+    <text x="20" y="194">  ARCHIVE   : github.com/WilsonC67/CSC340Project1</text>
+
+    <!-- Divider -->
+    <text x="20" y="224" opacity="0.35">  &#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;</text>
+
+    <!-- PROJECT 2: SER225 Requiem For A Gnome -->
+    <!-- "SER225_RPG" → 0x5345523232355F525047 -->
+    <text x="20" y="246">&#x2554;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2557;</text>
+    <text x="20" y="268">&#x2551;  0x5345523232355F525047  ::  OPERATION COMPLETE          &#x2551;</text>
+    <text x="20" y="290">&#x255A;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x255D;</text>
+    <text x="20" y="322">  CODENAME  : Requiem For A Gnome</text>
+    <text x="20" y="344">  TYPE      : Turn-based RPG</text>
+    <text x="20" y="366">  PROTOCOL  : Agile / Scrum  [ SER225 ]</text>
+    <text x="20" y="388">  AGENTS    : 4 devs + 1 Scrum Master</text>
+    <text x="20" y="410">  ARCHIVE   : github.com/bbailor/SER225</text>
+
   </g>
 </svg>
