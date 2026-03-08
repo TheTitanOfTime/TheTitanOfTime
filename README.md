@@ -23,15 +23,13 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TheTitanOfTime&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41)
 ![Streak](https://streak-stats.demolab.com?user=TheTitanOfTime&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&stroke=00FF41&sideNums=00FF41&currStreakNum=00FF41)
-
 
 </div>
 
 ---
 
-## `>> PROTOCOLS_LOADED`
+![section](https://img.shields.io/badge/>>_PROTOCOLS__LOADED-0d1117?style=flat-square&labelColor=00FF41&color=0d1117&label=>>%20PROTOCOLS%20LOADED)
 
 ![Java](https://img.shields.io/badge/JAVA-00FF41?style=flat-square&labelColor=0a0a0a&logo=openjdk&logoColor=00FF41)
 ![Python](https://img.shields.io/badge/PYTHON-00FF41?style=flat-square&labelColor=0a0a0a&logo=python&logoColor=00FF41)
@@ -39,7 +37,7 @@
 
 ---
 
-## `>> ACTIVE_PROCESSES`
+![section](https://img.shields.io/badge/>>%20ACTIVE%20PROCESSES-00FF41?style=flat-square&labelColor=0a0a0a)
 
 ```
   SLOT_01   : ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0% [ INITIALIZING ]
@@ -47,7 +45,7 @@
 
 ---
 
-## `>> COMPLETED_OPERATIONS`
+![section](https://img.shields.io/badge/>>%20COMPLETED%20OPERATIONS-00FF41?style=flat-square&labelColor=0a0a0a)
 
 ```
 ╔══════════════════════════════════════════════════════════╗
@@ -63,7 +61,7 @@
 
 ---
 
-## `>> ESTABLISH_CONNECTION`
+![section](https://img.shields.io/badge/>>%20ESTABLISH%20CONNECTION-00FF41?style=flat-square&labelColor=0a0a0a)
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-aurelienbuisne-00FF41?style=flat-square&labelColor=0a0a0a&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/aurelienbuisine/)
 
