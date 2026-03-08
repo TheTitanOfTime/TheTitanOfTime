@@ -26,7 +26,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=TheTitanOfTime&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41)
 ![Streak](https://streak-stats.demolab.com?user=TheTitanOfTime&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&stroke=00FF41&sideNums=00FF41&currStreakNum=00FF41)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=TheTitanOfTime&theme=matrix&no-frame=true&row=1&column=6)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheTitanOfTime&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41)
 
 </div>
 
