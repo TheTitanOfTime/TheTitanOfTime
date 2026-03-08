@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="244" viewBox="0 0 560 244">
+  <defs>
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="1.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="scanlines" patternUnits="userSpaceOnUse" width="560" height="3">
+      <rect width="560" height="1" y="2" fill="#000" opacity="0.12"/>
+    </pattern>
+    <style>
+      @keyframes pulse {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: 0.35; }
+      }
+      .active { animation: pulse 2s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="560" height="244" fill="#0d1117"/>
+  <!-- Subtle border -->
+  <rect x="1" y="1" width="558" height="242" fill="none" stroke="#00FF41" stroke-width="0.5" opacity="0.25"/>
+  <!-- Scanlines overlay -->
+  <rect width="560" height="244" fill="url(#scanlines)"/>
+
+  <!-- All text in Matrix green monospace with glow -->
+  <g font-family="'Courier New', Courier, monospace" font-size="13" fill="#00FF41" filter="url(#glow)">
+    <text x="20" y="38">&#x2554;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2557;</text>
+    <text x="20" y="60">&#x2551;  DECRYPTING  ::  0x41555245 4255 4953 4E45           &#x2551;</text>
+    <text x="20" y="82">&#x255A;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x255D;</text>
+    <text x="20" y="114">  NAME      : Aurelien Buisne</text>
+    <text x="20" y="136">  USER_ID   : TheTitanOfTime</text>
+    <text x="20" y="158">  CLEARANCE : STUDENT</text>
+    <text x="20" y="180">  SPEC      : Computer Science + Behavioral Neuroscience</text>
+    <text x="20" y="202">  INST      : Quinnipiac University</text>
+    <text x="20" y="224">  STATUS    : </text>
+    <text x="136" y="224" class="active">[ ACTIVE ]</text>
+  </g>
+</svg>

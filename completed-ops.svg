@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="202" viewBox="0 0 560 202">
+  <defs>
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="1.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="scanlines" patternUnits="userSpaceOnUse" width="560" height="3">
+      <rect width="560" height="1" y="2" fill="#000" opacity="0.12"/>
+    </pattern>
+  </defs>
+
+  <rect width="560" height="202" fill="#0d1117"/>
+  <rect x="1" y="1" width="558" height="200" fill="none" stroke="#00FF41" stroke-width="0.5" opacity="0.25"/>
+  <rect width="560" height="202" fill="url(#scanlines)"/>
+
+  <g font-family="'Courier New', Courier, monospace" font-size="13" fill="#00FF41" filter="url(#glow)">
+    <text x="20" y="30">&#x2554;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2557;</text>
+    <text x="20" y="52">&#x2551;  0x5345523232355F525047  ::  OPERATION COMPLETE          &#x2551;</text>
+    <text x="20" y="74">&#x255A;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x255D;</text>
+    <text x="20" y="106">  CODENAME  : Requiem For A Gnome</text>
+    <text x="20" y="128">  TYPE      : Turn-based RPG</text>
+    <text x="20" y="150">  PROTOCOL  : Agile / Scrum  [ SER225 ]</text>
+    <text x="20" y="172">  AGENTS    : 4 devs + 1 Scrum Master</text>
+    <text x="20" y="194">  ARCHIVE   : github.com/bbailor/SER225</text>
+  </g>
+</svg>

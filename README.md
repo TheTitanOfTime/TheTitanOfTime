@@ -6,18 +6,7 @@
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  DECRYPTING  ::  0x41555245 4255 4953 4E45               ║
-╚══════════════════════════════════════════════════════════╝
-
-  NAME      : Aurelien Buisne
-  USER_ID   : TheTitanOfTime
-  CLEARANCE : STUDENT
-  SPEC      : Computer Science + Behavioral Neuroscience
-  INST      : Quinnipiac University
-  STATUS    : [ ACTIVE ]
-```
+![Profile Card](./profile-card.svg)
 
 ---
 
@@ -39,25 +28,13 @@
 
 ## >> ACTIVE\_PROCESSES
 
-```
-  SLOT_01   : ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0% [ INITIALIZING ]
-```
+![Active Processes](./active-processes.svg)
 
 ---
 
 ## >> COMPLETED\_OPERATIONS
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  0x5345523232355F525047  ::  OPERATION COMPLETE          ║
-╚══════════════════════════════════════════════════════════╝
-
-  CODENAME  : Requiem For A Gnome
-  TYPE      : Turn-based RPG
-  PROTOCOL  : Agile / Scrum  [ SER225 ]
-  AGENTS    : 4 devs + 1 Scrum Master
-  ARCHIVE   : github.com/bbailor/SER225
-```
+![Completed Ops](./completed-ops.svg)
 
 ---
 
