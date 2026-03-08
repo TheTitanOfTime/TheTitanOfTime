@@ -1,7 +1,7 @@
 ## Hey! Welcome to my GitHub page.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F762&width=475&lines=CS+%2B+BNS+%40+Quinnipiac;Endlessly+Curious)](https://git.io/typing-svg)
-My name is Wilson Chen (he/him), and I am a current undergraduate attending Quinnipiac University, pursuing the 3+1 Dual-Degree Program in Computer Science and Cybersecurity. I love to continuously learn how to program, electronics, and networking.
+My name is Aurelien Buisne, and I am a student pursuing a double bachelors in computer science and behavioral neuroscience at Quinnipiac University.
 
 ## I'm currently working on:
 
