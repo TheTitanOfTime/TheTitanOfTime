@@ -6,7 +6,7 @@
 
 ---
 
-![Profile Card](./profile-card.svg)
+![Profile Card](./profile-card.svg?v=2)
 
 ---
 
@@ -28,13 +28,13 @@
 
 ## >> ACTIVE\_PROCESSES
 
-![Active Processes](./active-processes.svg)
+![Active Processes](./active-processes.svg?v=2)
 
 ---
 
 ## >> COMPLETED\_OPERATIONS
 
-![Completed Ops](./completed-ops.svg)
+![Completed Ops](./completed-ops.svg?v=2)
 
 ---
 
