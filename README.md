@@ -31,9 +31,9 @@
 
 ## >> PROTOCOLS\_LOADED
 
-![Java](https://img.shields.io/badge/JAVA-00FF41?style=flat-square&labelColor=0a0a0a&logo=openjdk&logoColor=00FF41)
-![Python](https://img.shields.io/badge/PYTHON-00FF41?style=flat-square&labelColor=0a0a0a&logo=python&logoColor=00FF41)
-![Git](https://img.shields.io/badge/GIT-00FF41?style=flat-square&labelColor=0a0a0a&logo=git&logoColor=00FF41)
+![Java](https://img.shields.io/badge/-JAVA-0a0a0a?style=flat-square&logo=openjdk&logoColor=00FF41)
+![Python](https://img.shields.io/badge/-PYTHON-0a0a0a?style=flat-square&logo=python&logoColor=00FF41)
+![Git](https://img.shields.io/badge/-GIT-0a0a0a?style=flat-square&logo=git&logoColor=00FF41)
 
 ---
 
