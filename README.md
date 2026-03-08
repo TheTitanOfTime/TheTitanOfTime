@@ -10,9 +10,5 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
 - I practiced using the Agile Software Development Lifecycle with three classmates in the class, as well as an upperclassman Scrum Master.
 - The link is: https://github.com/bbailor/SER225
 
-#### An AI Integrated Resume Builder for QU Fall 2025 Hackathon.
-- Along with three other peers, we created a user-friendly JavaFX frontend integrated with Google Gemini to facilitate resume building.
-- Link: https://github.com/ChrisF132/HackathonResumeBuilder
-
 ### Connect With Me!
 - https://www.linkedin.com/in/aurelienbuisine/
