@@ -29,7 +29,7 @@
 
 ---
 
-![section](https://img.shields.io/badge/>>_PROTOCOLS__LOADED-0d1117?style=flat-square&labelColor=00FF41&color=0d1117&label=>>%20PROTOCOLS%20LOADED)
+## >> PROTOCOLS\_LOADED
 
 ![Java](https://img.shields.io/badge/JAVA-00FF41?style=flat-square&labelColor=0a0a0a&logo=openjdk&logoColor=00FF41)
 ![Python](https://img.shields.io/badge/PYTHON-00FF41?style=flat-square&labelColor=0a0a0a&logo=python&logoColor=00FF41)
@@ -37,7 +37,7 @@
 
 ---
 
-![section](https://img.shields.io/badge/>>%20ACTIVE%20PROCESSES-00FF41?style=flat-square&labelColor=0a0a0a)
+## >> ACTIVE\_PROCESSES
 
 ```
   SLOT_01   : ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0% [ INITIALIZING ]
@@ -45,7 +45,7 @@
 
 ---
 
-![section](https://img.shields.io/badge/>>%20COMPLETED%20OPERATIONS-00FF41?style=flat-square&labelColor=0a0a0a)
+## >> COMPLETED\_OPERATIONS
 
 ```
 ╔══════════════════════════════════════════════════════════╗
@@ -61,7 +61,7 @@
 
 ---
 
-![section](https://img.shields.io/badge/>>%20ESTABLISH%20CONNECTION-00FF41?style=flat-square&labelColor=0a0a0a)
+## >> ESTABLISH\_CONNECTION
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-aurelienbuisne-00FF41?style=flat-square&labelColor=0a0a0a&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/aurelienbuisine/)
 
